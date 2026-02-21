@@ -1,11 +1,10 @@
 APClips
 Archive.org
+CGTrader
 Code Snippet Wiki
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -19,7 +18,7 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
+Tiendanube
 TryHackMe
 Weblate
 YandexMusic
