@@ -1,7 +1,7 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -9,16 +9,20 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
+NitroType
+Patched
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
 Spotify
-Tiendanube
+Trovo
 TryHackMe
 Weblate
 YandexMusic
