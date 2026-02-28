@@ -17,10 +17,12 @@ Scribd
 Shelf
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 TryHackMe
 Weblate
+YandexMusic
 mercadolivre
 opennet
 phpRU
