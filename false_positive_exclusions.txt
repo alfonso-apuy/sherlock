@@ -5,12 +5,11 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Realmeye
@@ -27,6 +26,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
 xHamster
