@@ -1,6 +1,8 @@
 APClips
 Archive.org
+BoardGameGeek
 Codolio
+DeviantArt
 GeeksforGeeks
 Giphy
 Hashnode
@@ -16,11 +18,11 @@ Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
