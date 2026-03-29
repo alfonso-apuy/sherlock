@@ -1,11 +1,14 @@
 APClips
 Archive.org
 Codolio
-Flipboard
+DeviantArt
+DigitalSpy
+Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 LushStories
 Minecraft
 Patched
@@ -21,6 +24,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
@@ -28,3 +32,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
