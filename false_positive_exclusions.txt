@@ -3,7 +3,6 @@ Archive.org
 Codolio
 DeviantArt
 DigitalSpy
-Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 Hashnode
@@ -28,6 +27,7 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
+interpals
 mercadolivre
 opennet
 phpRU
