@@ -1,6 +1,8 @@
 7Cups
 APClips
 Archive.org
+Audiojungle
+Bandcamp
 Codolio
 DeviantArt
 Discord.bio
@@ -10,6 +12,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
 Pornhub
@@ -32,3 +35,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
