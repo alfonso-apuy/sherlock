@@ -14,6 +14,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
 Patched
 Pornhub
@@ -21,7 +22,6 @@ Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -34,8 +34,10 @@ Velomania
 Weblate
 YandexMusic
 dailykos
+eintracht
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
