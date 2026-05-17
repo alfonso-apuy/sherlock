@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
@@ -12,16 +11,16 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
+Itch.io
 LushStories
 Patched
-Rajce.net
 Rarible
 Realmeye
 Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
@@ -38,4 +37,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
