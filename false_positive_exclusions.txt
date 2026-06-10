@@ -6,9 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Codolio
-Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -16,9 +14,10 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-OurDJTalk
+LushStories
 Patched
 Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -29,8 +28,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
-Telegram
 TryHackMe
 Velomania
 Weblate
@@ -43,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
