@@ -17,6 +17,8 @@ HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
+LushStories
+OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -29,6 +31,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
