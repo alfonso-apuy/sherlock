@@ -6,6 +6,8 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+Cults3D
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -16,6 +18,7 @@ Hubski
 LessWrong
 LushStories
 Odysee
+Patched
 Rarible
 Realmeye
 Reddit
@@ -26,6 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
