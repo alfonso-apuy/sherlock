@@ -2,7 +2,6 @@
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 Bandcamp
 BreachSta.rs Forum
@@ -17,7 +16,6 @@ Houzz
 Hubski
 LessWrong
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Rarible
