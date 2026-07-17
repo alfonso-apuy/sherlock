@@ -13,9 +13,7 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
-Houzz
 Hubski
-Itch.io
 LessWrong
 Minecraft
 Odysee
@@ -45,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
