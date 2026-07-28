@@ -4,7 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
+Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -14,6 +14,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+NICommunityForum
 Odysee
 PCGamer
 Patched
@@ -22,15 +23,12 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
