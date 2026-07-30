@@ -1,12 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
-Carbonmade
+CGTrader
 Chatujme.cz
 Codolio
 DeviantArt
@@ -19,6 +17,7 @@ Hashnode
 Hubski
 Instapaper
 LessWrong
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -30,7 +29,6 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Signal
 SlideShare
 Splice
 Spotify
@@ -46,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
