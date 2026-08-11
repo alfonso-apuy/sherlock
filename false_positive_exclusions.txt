@@ -4,8 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
-Carbonmade
 Chatujme.cz
 Codolio
 DeviantArt
@@ -18,11 +16,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
+Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -40,9 +38,11 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
