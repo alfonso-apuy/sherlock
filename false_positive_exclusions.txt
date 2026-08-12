@@ -1,9 +1,12 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
+Carbonmade
 Chatujme.cz
 Codolio
 DeviantArt
@@ -20,7 +23,6 @@ Odysee
 PCGamer
 Patched
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -34,6 +36,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -42,7 +45,7 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
+xHamster
