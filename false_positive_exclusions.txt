@@ -6,7 +6,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
-Carbonmade
+BoardGameGeek
 Chatujme.cz
 Codolio
 DeviantArt
@@ -29,11 +29,13 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -48,4 +50,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
