@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
-BoardGameGeek
 Chatujme.cz
 Codolio
 DeviantArt
@@ -15,6 +14,8 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
+HackerOne
 Hashnode
 Houzz
 Hubski
@@ -29,7 +30,6 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
