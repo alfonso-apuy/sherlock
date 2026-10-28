@@ -7,6 +7,7 @@ Bandcamp
 Championat
 Chatujme.cz
 ChaturBate
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -20,7 +21,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -34,9 +34,9 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
+Vero
 Weblate
 YandexMusic
 authorSTREAM
@@ -49,3 +49,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
