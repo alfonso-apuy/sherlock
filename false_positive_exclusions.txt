@@ -9,15 +9,17 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+Gravatar
 HackerNews
 Hashnode
 Hubski
 Instapaper
 Linktree
-LiveJournal
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -28,6 +30,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
