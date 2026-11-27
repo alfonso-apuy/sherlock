@@ -1,7 +1,9 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -26,7 +28,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
+Strava
 TryHackMe
 Velomania
 Vero
@@ -42,3 +44,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
